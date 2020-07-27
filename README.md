@@ -7,6 +7,7 @@ My desire to learn fuels me both professionally and personally.
 
 - 🌱 I’m currently learning Scala after having taken two of Martin Oderskys courses on coursera a few years ago I'm picking it up again.
 - 📫 How to reach me: bjorn@done-by-bjorn.com
+- 🔗 www.linkedin.com/in/bjorn-nordstrand
 
 <!--
 **bjonord/bjonord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

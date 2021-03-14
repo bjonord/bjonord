@@ -7,7 +7,7 @@ My desire to learn fuels me both professionally and personally.
 
 - 🌱 I'm currently learning Rust, this came about by circumstance following choices made for a project at work.
 - 📫 How to reach me: bjorn@def-end.se
-- 📝 Blogging @ bjonord.def-end.se
+- 📝 Blogging @ [bjonord.def-end.se](https://bjonord.def-end.se)
 - 🔗 www.linkedin.com/in/bjorn-nordstrand
 - ⚡ Fun fact: Buying a house has made me into a pretty decent rough carpenter.
 
